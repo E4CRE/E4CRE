@@ -1,6 +1,5 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/E4CRE.png" alt="Your Image Badge" />
-## Hi there 👋
 <!--
 **E4CRE/E4CRE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
