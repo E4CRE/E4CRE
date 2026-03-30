@@ -10,7 +10,7 @@
 <br><br>
 
 <a href="https://www.root-me.org/E4CRE">
-  <img src="https://img.shields.io/badge/Root--Me-E4CRE%20|%20715%20pts-000000?style=for-the-badge&logo=root-me&logoColor=white" alt="Root-Me Badge">
+  <img src="https://img.shields.io/badge/Root--Me-E4CRE%20|%201005%20pts-000000?style=for-the-badge&logo=root-me&logoColor=white" alt="Root-Me Badge">
 </a>
 &nbsp;
 <a href="https://cryptohack.org/user/E4CRE">
