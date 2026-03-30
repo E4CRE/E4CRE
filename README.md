@@ -25,6 +25,21 @@
 
 ---
 
+## 🚩 CTF Participations
+
+<div align="center">
+
+| Compétition | Équipe / Info | Année |
+|---|---|---|
+| 🇫🇷 France Cybersecurity Challenge (FCSC) | — | 2026 |
+| ⚔️ CTF ORION — NOM DE CODE : BELLATRIX | COMCYBER | 2026 |
+| 🌙 Midnight Flag CTF | Hackin'TN | 2026 |
+| 🎓 CTF de l'Inté — Telecom Nancy | — | 2025 |
+
+</div>
+
+---
+
 ## 💻 Languages & Development
 
 <div align="center">
