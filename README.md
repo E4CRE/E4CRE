@@ -23,7 +23,7 @@
 
 </div>
 
----
+***
 
 ## 🚩 CTF Participations
 
@@ -32,13 +32,24 @@
 | Compétition | Équipe / Info | Année |
 |---|---|---|
 | 🇫🇷 France Cybersecurity Challenge (FCSC) | — | 2026 |
-| ⚔️ CTF ORION — NOM DE CODE : BELLATRIX | COMCYBER | 2026 |
 | 🌙 Midnight Flag CTF | Hackin'TN | 2026 |
 | 🎓 CTF de l'Inté — Telecom Nancy | — | 2025 |
 
 </div>
 
----
+## 🔍 CTF OSINT
+
+<div align="center">
+
+| Compétition | Équipe / Info | Année |
+|---|---|---|
+| 🌸 CTF Bleuet de France | Hackin'TN | 2026 |
+| 🕵️ Maltego Community OSINT CTF | Hackin'TN | 2026 |
+| ⚔️ CTF ORION — NOM DE CODE : BELLATRIX | COMCYBER | 2026 |
+
+</div>
+
+***
 
 ## 💻 Languages & Development
 
@@ -66,6 +77,7 @@
   <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows">
   <img src="https://img.shields.io/badge/QEMU/KVM-FF6600?style=for-the-badge&logo=qemu&logoColor=white" alt="QEMU/KVM">
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox">
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox">
 </div>
 
 ## 🛠️ Tools & Software
