@@ -5,16 +5,16 @@
 
 ## 🌐 Platforms
 
-🧠 **Learning / Training**
+🧠 **Learning / Training**<br>
   [TryHackMe](https://tryhackme.com/p/E4CRE) | [Hack The Box](https://app.hackthebox.com/profile/637279) | [CyLab Academy](https://learn.cylabacademy.org/users/E4CRE)
 
-🎯 **Challenges / Wargames**
+🎯 **Challenges / Wargames**<br>
   [Root-Me](https://www.root-me.org/E4CRE) | OverTheWire
 
-🔐 **Cryptography**
+🔐 **Cryptography**<br>
   [CryptoHack](https://cryptohack.org/user/E4CRE)
 
-🕵️ **OSINT**
+🕵️ **OSINT**<br>
   [Osintopia](https://challenges.osintopia.fr/profil-public/E4CRE) | OSINT4Fun | Osint-FR
 
 
