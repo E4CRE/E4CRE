@@ -2,30 +2,24 @@
 
 <h1>👾 E4CRE</h1>
 <h3>🛡️ Cybersecurity Enthusiast</h3>
+</div>
 
 <h2>🌐 Platforms</h2>
 
-🧠 <strong>Learning / Training</strong><br>
-<a href="https://tryhackme.com/p/E4CRE">TryHackMe</a> &nbsp;|&nbsp;
-<a href="https://app.hackthebox.com/profile/637279">Hack The Box</a> &nbsp;|&nbsp;
-<a href="https://learn.cylabacademy.org/users/E4CRE">CyLab Academy</a>
+<div align="center">
+🧠 **Learning / Training**<br>
+TryHackMe | Hack The Box | CyLab Academy
 
-<br>
+🎯 **Challenges / Wargames**<br>
+Root-Me | OverTheWire
 
-🎯 <strong>Challenges / Wargames</strong><br>
-<a href="https://www.root-me.org/E4CRE">Root-Me</a> &nbsp;|&nbsp; OverTheWire
+🔐 **Cryptography**<br>
+CryptoHack
 
-<br>
-
-🔐 <strong>Cryptography</strong><br>
-<a href="https://cryptohack.org/user/E4CRE">CryptoHack</a>
-
-<br>
-
-🕵️ <strong>OSINT</strong><br>
-<a href="https://challenges.osintopia.fr/profil-public/E4CRE">Osintopia</a> &nbsp;|&nbsp; OSINT4Fun &nbsp;|&nbsp; Osint-FR
-
+🕵️ **OSINT**<br>
+Osintopia | OSINT4Fun | Osint-FR
 </div>
+
 
 ***
 
