@@ -5,19 +5,19 @@
 
 ## 🌐 Platforms
 
-- 🧠 **Learning / Training**
-  - [TryHackMe](https://tryhackme.com/p/E4CRE)
-  - [Hack The Box](https://app.hackthebox.com/profile/637279)
-  - [CyLab Academy](https://learn.cylabacademy.org/users/E4CRE)
+🧠 **Learning / Training**
+  [TryHackMe](https://tryhackme.com/p/E4CRE) | [Hack The Box](https://app.hackthebox.com/profile/637279) | [CyLab Academy](https://learn.cylabacademy.org/users/E4CRE)
 
-- 🔐 **Cryptography**
-  - [CryptoHack](https://cryptohack.org/user/E4CRE)
+🎯 **Challenges / Wargames**
+  [Root-Me](https://www.root-me.org/E4CRE) | OverTheWire
 
-- 🕵️ **OSINT**
-  - [Osintopia](https://challenges.osintopia.fr/profil-public/E4CRE)
+🔐 **Cryptography**
+  [CryptoHack](https://cryptohack.org/user/E4CRE)
 
-- 🎯 **Challenges / Wargames**
-  - [Root-Me](https://www.root-me.org/E4CRE)
+🕵️ **OSINT**
+  [Osintopia](https://challenges.osintopia.fr/profil-public/E4CRE) | OSINT4Fun | Osint-FR
+
+
 </div>
 
 ***
