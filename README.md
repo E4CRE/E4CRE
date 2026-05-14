@@ -43,7 +43,7 @@
 
 | Compétition | Équipe / Info | Année |
 |---|---|---|
-| 🌸 CTF Bleuet de France | Hackin'TN | 2026 |
+| 🔵 CTF Bleuet de France v5 by AEGE | Hackin'TN | 2026 |
 | 🕵️ Maltego Community OSINT CTF | Hackin'TN | 2026 |
 | ⚔️ CTF ORION — NOM DE CODE : BELLATRIX | COMCYBER | 2026 |
 
