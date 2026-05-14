@@ -1,22 +1,29 @@
 <div align="center">
 
 <h1>👾 E4CRE</h1>
-<h3>🛡️ Cybersecurity Enthusiast </h3>
+<h3>🛡️ Cybersecurity Enthusiast</h3>
 
-## 🌐 Platforms
+<h2>🌐 Platforms</h2>
 
-🧠 **Learning / Training**<br>
-  [TryHackMe](https://tryhackme.com/p/E4CRE) | [Hack The Box](https://app.hackthebox.com/profile/637279) | [CyLab Academy](https://learn.cylabacademy.org/users/E4CRE)
+🧠 <strong>Learning / Training</strong><br>
+<a href="https://tryhackme.com/p/E4CRE">TryHackMe</a> &nbsp;|&nbsp;
+<a href="https://app.hackthebox.com/profile/637279">Hack The Box</a> &nbsp;|&nbsp;
+<a href="https://learn.cylabacademy.org/users/E4CRE">CyLab Academy</a>
 
-🎯 **Challenges / Wargames**<br>
-  [Root-Me](https://www.root-me.org/E4CRE) | OverTheWire
+<br>
 
-🔐 **Cryptography**<br>
-  [CryptoHack](https://cryptohack.org/user/E4CRE)
+🎯 <strong>Challenges / Wargames</strong><br>
+<a href="https://www.root-me.org/E4CRE">Root-Me</a> &nbsp;|&nbsp; OverTheWire
 
-🕵️ **OSINT**<br>
-  [Osintopia](https://challenges.osintopia.fr/profil-public/E4CRE) | OSINT4Fun | Osint-FR
+<br>
 
+🔐 <strong>Cryptography</strong><br>
+<a href="https://cryptohack.org/user/E4CRE">CryptoHack</a>
+
+<br>
+
+🕵️ <strong>OSINT</strong><br>
+<a href="https://challenges.osintopia.fr/profil-public/E4CRE">Osintopia</a> &nbsp;|&nbsp; OSINT4Fun &nbsp;|&nbsp; Osint-FR
 
 </div>
 
@@ -86,3 +93,9 @@
   <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="After Effects">
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop">
 </div>
+
+***
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=E4CRE&style=for-the-badge&color=blueviolet" alt="Profile Views">
+</p>
