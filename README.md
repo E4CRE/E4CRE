@@ -11,7 +11,7 @@
 
 🧠 <strong>Learning / Training</strong><br>
 <a href="https://tryhackme.com/p/E4CRE">TryHackMe</a> &nbsp;|&nbsp;
-<a href="https://app.hackthebox.com/profile/637279">Hack The Box</a> &nbsp;|&nbsp;
+<a href="https://profile.hackthebox.com/profile/019c6c49-670a-719c-8817-30f33acbb3dd">Hack The Box</a> &nbsp;|&nbsp;
 <a href="https://learn.cylabacademy.org/users/E4CRE">CyLab Academy</a>
 
 <br>
