@@ -3,24 +3,21 @@
 <h1>👾 E4CRE</h1>
 <h3>🛡️ Cybersecurity Enthusiast </h3>
 
-<a href="https://tryhackme.com/p/E4CRE">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/E4CRE.png" alt="TryHackMe Badge">
-</a>
+## 🌐 Platforms
 
-<br><br>
+- 🧠 **Learning / Training**
+  - [TryHackMe](https://tryhackme.com/p/E4CRE)
+  - [Hack The Box](https://app.hackthebox.com/profile/637279)
+  - [CyLab Academy](https://learn.cylabacademy.org/users/E4CRE)
 
-<a href="https://www.root-me.org/E4CRE">
-  <img src="https://img.shields.io/badge/Root--Me-E4CRE%20|%201005%20pts-000000?style=for-the-badge&logo=root-me&logoColor=white" alt="Root-Me Badge">
-</a>
-&nbsp;
-<a href="https://cryptohack.org/user/E4CRE">
-  <img src="https://img.shields.io/badge/CryptoHack-E4CRE%20|%2025%20pts-FFD700?style=for-the-badge&logoColor=white" alt="CryptoHack Badge">
-</a>
-&nbsp;
-<a href="https://app.hackthebox.com/profile/637279">
-  <img src="https://www.hackthebox.eu/badge/image/637279" alt="HackTheBox Badge">
-</a>
+- 🔐 **Cryptography**
+  - [CryptoHack](https://cryptohack.org/user/E4CRE)
 
+- 🕵️ **OSINT**
+  - [Osintopia](https://challenges.osintopia.fr/profil-public/E4CRE)
+
+- 🎯 **Challenges / Wargames**
+  - [Root-Me](https://www.root-me.org/E4CRE)
 </div>
 
 ***
