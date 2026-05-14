@@ -9,12 +9,6 @@
 
 <div align="center">
 
-<h1>👾 E4CRE</h1>
-<h3>🛡️ Cybersecurity Enthusiast</h3>
-<h4>Engineering student specializing in cybersecurity 🇫🇷</h4>
-
-<h2>🌐 Platforms</h2>
-
 🧠 <strong>Learning / Training</strong><br>
 <a href="https://tryhackme.com/p/E4CRE">TryHackMe</a> &nbsp;|&nbsp;
 <a href="https://app.hackthebox.com/profile/637279">Hack The Box</a> &nbsp;|&nbsp;
